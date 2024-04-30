@@ -8,7 +8,7 @@ body {
 
 .banner{
     height: 80vh;
-    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../foto/banner.jpg');
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('/Foto/banner.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -35,14 +35,9 @@ body {
 
 .banner-2{
     height: 55vh;
-    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('../foto/kopi.jpg');
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('/Foto/kopi.jpg');
     background-size: cover;
     background-position: center;
-}
-
-
-.row-1 {
-    box-shadow: rgba(99, 99, 99, 0.2) 0px, 2px, 8px, 0px;
 }
 
 .cmd-7 {
